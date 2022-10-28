@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mustafaselman/015_Tour_Places_Responsive_React/static/css/main.c9b1d0a1.css",
+    "main.js": "/mustafaselman/015_Tour_Places_Responsive_React/static/js/main.4c44809a.js",
+    "index.html": "/mustafaselman/015_Tour_Places_Responsive_React/index.html",
+    "main.c9b1d0a1.css.map": "/mustafaselman/015_Tour_Places_Responsive_React/static/css/main.c9b1d0a1.css.map",
+    "main.4c44809a.js.map": "/mustafaselman/015_Tour_Places_Responsive_React/static/js/main.4c44809a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9b1d0a1.css",
+    "static/js/main.4c44809a.js"
+  ]
+}
