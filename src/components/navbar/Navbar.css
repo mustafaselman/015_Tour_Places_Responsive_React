@@ -1,0 +1,28 @@
+* {
+margin: 0px;
+border: 0px;
+}
+
+ul {
+    position: relative;
+    background-color: black;
+    color:antiquewhite;
+    height:3rem;
+    text-align:center;
+    font-family: 'Permanent Marker', cursive;
+    
+}
+
+li {
+    
+    display: inline-block;
+    top: 0.75rem;
+    padding: 1rem;
+    
+  }
+
+  @media (max-width: 628px) {
+    ul {
+      height: 8rem;
+    }
+  }
